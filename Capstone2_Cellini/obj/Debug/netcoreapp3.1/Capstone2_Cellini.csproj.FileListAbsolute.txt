@@ -1,0 +1,17 @@
+C:\Users\Joseph Cellini\source\repos\Capstone2_Cellini\Capstone2_Cellini\obj\Debug\netcoreapp3.1\Capstone2_Cellini.csprojAssemblyReference.cache
+C:\Users\Joseph Cellini\source\repos\Capstone2_Cellini\Capstone2_Cellini\obj\Debug\netcoreapp3.1\Capstone2_Cellini.AssemblyInfoInputs.cache
+C:\Users\Joseph Cellini\source\repos\Capstone2_Cellini\Capstone2_Cellini\obj\Debug\netcoreapp3.1\Capstone2_Cellini.AssemblyInfo.cs
+C:\Users\Joseph Cellini\source\repos\Capstone2_Cellini\Capstone2_Cellini\obj\Debug\netcoreapp3.1\Capstone2_Cellini.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Cellini\Desktop\Capstone2_Cellini\Capstone2_Cellini\obj\Debug\netcoreapp3.1\Capstone2_Cellini.csprojAssemblyReference.cache
+C:\Users\Joseph Cellini\Desktop\Capstone2_Cellini\Capstone2_Cellini\obj\Debug\netcoreapp3.1\Capstone2_Cellini.AssemblyInfoInputs.cache
+C:\Users\Joseph Cellini\Desktop\Capstone2_Cellini\Capstone2_Cellini\obj\Debug\netcoreapp3.1\Capstone2_Cellini.AssemblyInfo.cs
+C:\Users\Joseph Cellini\Desktop\Capstone2_Cellini\Capstone2_Cellini\obj\Debug\netcoreapp3.1\Capstone2_Cellini.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Cellini\Desktop\Capstone2_Cellini\Capstone2_Cellini\bin\Debug\netcoreapp3.1\Capstone2_Cellini.exe
+C:\Users\Joseph Cellini\Desktop\Capstone2_Cellini\Capstone2_Cellini\bin\Debug\netcoreapp3.1\Capstone2_Cellini.deps.json
+C:\Users\Joseph Cellini\Desktop\Capstone2_Cellini\Capstone2_Cellini\bin\Debug\netcoreapp3.1\Capstone2_Cellini.runtimeconfig.json
+C:\Users\Joseph Cellini\Desktop\Capstone2_Cellini\Capstone2_Cellini\bin\Debug\netcoreapp3.1\Capstone2_Cellini.runtimeconfig.dev.json
+C:\Users\Joseph Cellini\Desktop\Capstone2_Cellini\Capstone2_Cellini\bin\Debug\netcoreapp3.1\Capstone2_Cellini.dll
+C:\Users\Joseph Cellini\Desktop\Capstone2_Cellini\Capstone2_Cellini\bin\Debug\netcoreapp3.1\Capstone2_Cellini.pdb
+C:\Users\Joseph Cellini\Desktop\Capstone2_Cellini\Capstone2_Cellini\obj\Debug\netcoreapp3.1\Capstone2_Cellini.dll
+C:\Users\Joseph Cellini\Desktop\Capstone2_Cellini\Capstone2_Cellini\obj\Debug\netcoreapp3.1\Capstone2_Cellini.pdb
+C:\Users\Joseph Cellini\Desktop\Capstone2_Cellini\Capstone2_Cellini\obj\Debug\netcoreapp3.1\Capstone2_Cellini.genruntimeconfig.cache
